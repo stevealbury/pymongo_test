@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e462834-f288-4224-bbdf-51d8d6ce8376" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pymongo_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insert1_doc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insert_many_doc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymongo_test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pymongo_test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pymongo_test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +73,7 @@
       <updated>1726734642334</updated>
       <workItem from="1726734643752" duration="3988000" />
       <workItem from="1726738652629" duration="8978000" />
-      <workItem from="1726752726090" duration="1927000" />
+      <workItem from="1726752726090" duration="2814000" />
     </task>
     <servers />
   </component>

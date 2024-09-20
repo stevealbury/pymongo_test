@@ -17,7 +17,7 @@ from bson.objectid import ObjectId
 load_dotenv()
 
 # use a connection string to connect to the database
-#MONGO_DB_URI = "mongodb+srv://stevealbury:bUNjDyrUCQijKyZN@developmentenvironments.q74ao.mongodb.net/?retryWrites=true&w=majority&appName=developmentEnvironments0"
+#MONGO_DB_URI = "mongodb+srv://XXXX:XXX@developmentenvironments.q74ao.mongodb.net/?retryWrites=true&w=majority&appName=developmentEnvironments0"
 
 #Rather than doing it directly it's better to do it
 # using an environment variable
